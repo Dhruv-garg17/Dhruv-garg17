@@ -54,6 +54,36 @@ A personal productivity app with drag-and-drop UI, deadline tracking, and user-f
 > 🔗 Explore more in my [GitHub Repositories](https://github.com/your-github-username?tab=repositories)
 
 ---
+## 🏆 Achievements
+
+- 🧠 **Proficient in Java, JavaScript & MERN Stack**  
+  Built multiple full-stack applications with clean architecture and optimized performance.
+
+- 📈 **DSA Proficiency**  
+  Solved 400+ coding problems across platforms like LeetCode and CodeStudio.
+
+- 👥 **Active Contributor @Masai-course**  
+  Contributed to team projects and collaborative codebases with version control best practices.
+
+- 🛡️ **Completed Cybersecurity Essentials**  
+  Certified by Cisco for completing foundational cybersecurity training.
+
+- ☁️ **Cloud Foundations Badge**  
+  Earned from IBM Cloud, demonstrating understanding of core cloud concepts.
+
+- 🧰 **Git & GitHub Power User**  
+  Experienced in pull requests, branching, code reviews, merge conflict resolution, and Git workflows.
+
+- 🧑‍🏫 **Peer Mentor Role at Masai**  
+  Guided fellow learners in projects, debugging, and collaborative problem-solving.
+
+[![MERN Stack](https://img.shields.io/badge/MERN%20Stack-Expert-brightgreen)](#)
+[![DSA 400+ Problems](https://img.shields.io/badge/DSA-400%2B%20Problems-orange)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Contributor-blue)](#)
+[![Cisco Certified](https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-blue)](#)
+[![IBM Cloud](https://img.shields.io/badge/IBM-Cloud%20Foundations-lightblue)](#)
+[![Masai Course](https://img.shields.io/badge/Masai-Organization-red)](https://github.com/masai-course)
+
 
 ## 📈 GitHub Stats
 
