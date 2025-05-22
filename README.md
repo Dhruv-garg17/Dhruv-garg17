@@ -54,6 +54,14 @@ A personal productivity app with drag-and-drop UI, deadline tracking, and user-f
 > 🔗 Explore more in my [GitHub Repositories](https://github.com/your-github-username?tab=repositories)
 
 ---
+## 🎓 Certifications
+
+- [Cisco Cybersecurity Essentials](https://www.cisco.com/c/en_in/training-events/training-certifications/certifications/cybersecurity-essentials.html) – Completed foundational cybersecurity training by Cisco.
+- [IBM Cloud Foundations Badge](https://www.your-ibm-cert-link.com) – Demonstrated understanding of core cloud concepts and services.
+- [Masai School Full Stack Development](https://www.masaischool.com/certification) – Completed rigorous full-stack software development training.
+- [Java Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/) – Comprehensive Java programming course.
+
+---
 ## 🏆 Achievements
 
 - 🧠 **Proficient in Java, JavaScript & MERN Stack**  
@@ -84,7 +92,7 @@ A personal productivity app with drag-and-drop UI, deadline tracking, and user-f
 [![IBM Cloud](https://img.shields.io/badge/IBM-Cloud%20Foundations-lightblue)](#)
 [![Masai Course](https://img.shields.io/badge/Masai-Organization-red)](https://github.com/masai-course)
 
-
+---
 ## 📈 GitHub Stats
 
 ![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true)
