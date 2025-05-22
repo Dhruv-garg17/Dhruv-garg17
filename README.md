@@ -1,8 +1,8 @@
 # 👋 Hello World, I'm Dhruv Garg
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhruv-garg-0656b9228)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](dhruv110624@gmail.com)
 
 ---
 
@@ -10,6 +10,7 @@ I'm a **software developer** with a strong foundation in computer science, a pas
 
 I specialize in **full-stack web development**, backend engineering, and building robust, scalable systems. I’ve contributed to several end-to-end applications, with a focus on performance, usability, and maintainability.
 
+- [Masai School Full Stack Development](https://www.masaischool.com/certification) – Completed rigorous full-stack software development training.
 ---
 
 ## 🎓 Education
@@ -17,22 +18,20 @@ I specialize in **full-stack web development**, backend engineering, and buildin
 **Bachelor of Engineering – Computer Science and Engineering**  
 📍 *Chitkara University, Punjab*  
 📅 *Graduated: 2025*  
-📌 CGPA: 9.26 / 10
+📌 CGPA: 9.22 / 10
 
 ## 💻 Technical Expertise
 
 | Domain | Tools & Technologies |
 |--------|----------------------|
-| **Languages** | Java, Python, C++, JavaScript |
-| **Frontend** | React.js, HTML5, CSS3, Tailwind, Redux |
+| **Languages** | Java, JavaScript |
+| **Frontend** | React.js, HTML5, CSS3, Tailwind |
 | **Backend** | Node.js, Express.js, REST APIs |
 | **Databases** | MongoDB, MySQL |
 | **Dev Tools** | Git, GitHub, VS Code, Postman, Firebase |
 | **Concepts** | Data Structures & Algorithms, OOP, MVC Architecture, Authentication, API Design |
-| **Other** | Cloud Basics (AWS/GCP), Cybersecurity Foundations, CI/CD Fundamentals |
 
 ---
-
 ## 🛠️ Notable Projects
 
 ### 📚 BookHut  
@@ -51,14 +50,13 @@ A full-stack blog app with user authentication, markdown support, and role-based
 A personal productivity app with drag-and-drop UI, deadline tracking, and user-friendly design.  
 **Stack**: React, Node.js, Express
 
-> 🔗 Explore more in my [GitHub Repositories](https://github.com/your-github-username?tab=repositories)
+> 🔗 Explore more in my [GitHub Repositories](https://github.com/Dhruv-garg17?tab=repositories)
 
 ---
 ## 🎓 Certifications
 
 - [Cisco Cybersecurity Essentials](https://www.cisco.com/c/en_in/training-events/training-certifications/certifications/cybersecurity-essentials.html) – Completed foundational cybersecurity training by Cisco.
 - [IBM Cloud Foundations Badge](https://www.your-ibm-cert-link.com) – Demonstrated understanding of core cloud concepts and services.
-- [Masai School Full Stack Development](https://www.masaischool.com/certification) – Completed rigorous full-stack software development training.
 - [Java Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/) – Comprehensive Java programming course.
 
 ---
@@ -68,7 +66,7 @@ A personal productivity app with drag-and-drop UI, deadline tracking, and user-f
   Built multiple full-stack applications with clean architecture and optimized performance.
 
 - 📈 **DSA Proficiency**  
-  Solved 400+ coding problems across platforms like LeetCode and CodeStudio.
+  Solved 500+ coding problems across platforms like LeetCode and GeeksforGeeks.
 
 - 👥 **Active Contributor @Masai-course**  
   Contributed to team projects and collaborative codebases with version control best practices.
@@ -112,7 +110,7 @@ A personal productivity app with drag-and-drop UI, deadline tracking, and user-f
 I’m always excited to collaborate on impactful projects or join dynamic teams.  
 Feel free to reach out or just say hi!
 
-📫 [your.email@example.com](mailto:your.email@example.com) | 🌐 [your-portfolio-link.com](https://your-portfolio-link.com)
+📫 [your.email@example.com](dhruv110624@gmail.com) | 🌐 [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
 
