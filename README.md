@@ -93,9 +93,10 @@ A personal productivity app with drag-and-drop UI, deadline tracking, and user-f
 ---
 ## 📈 GitHub Stats
 
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true)
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv-garg17&show_icons=true&theme=github_dark&hide_title=false&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-garg17&layout=compact&theme=github_dark)
+
 
 ---
 
