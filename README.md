@@ -4,9 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dhruv110624@gmail.com)
 
-
 ---
-
 I'm a **software developer** with a strong foundation in computer science, a passion for clean architecture, and a drive to solve real-world problems through technology.
 
 I specialize in **full-stack web development**, backend engineering, and building robust, scalable systems. I’ve contributed to several end-to-end applications, with a focus on performance, usability, and maintainability.
@@ -20,6 +18,7 @@ I specialize in **full-stack web development**, backend engineering, and buildin
 📍 *Chitkara University, Punjab*  
 📅 *Graduated: 2025*  
 📌 CGPA: 9.22 / 10
+---
 
 ## 💻 Technical Expertise
 
