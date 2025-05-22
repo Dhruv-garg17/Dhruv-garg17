@@ -12,6 +12,13 @@ I specialize in **full-stack web development**, backend engineering, and buildin
 
 ---
 
+## 🎓 Education
+
+**Bachelor of Engineering – Computer Science and Engineering**  
+📍 *Chitkara University, Punjab*  
+📅 *Graduated: 2025*  
+📌 CGPA: 9.26 / 10
+
 ## 💻 Technical Expertise
 
 | Domain | Tools & Technologies |
