@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-garg-0656b9228)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dhruv110624@gmail.com)
+[![Resume](https://img.shields.io/badge/-Resume-4CAF50?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/12wa09oi377QbjHL9dktZRbX0jueK0JaD/view?usp=drive_link)
 
 ---
 I'm a **software developer** with a strong foundation in computer science, a passion for clean architecture, and a drive to solve real-world problems through technology.
