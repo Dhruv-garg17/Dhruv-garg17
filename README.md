@@ -20,7 +20,7 @@ I specialize in **full-stack web development**, backend engineering, and buildin
 | **Frontend** | React.js, HTML5, CSS3, Tailwind |
 | **Backend** | Node.js, Express.js, REST APIs |
 | **Databases** | MongoDB, MySQL |
-| **Dev Tools** | Git, GitHub, VS Code, Postman, Firebase |
+| **Dev Tools** | Git, GitHub, VS Code, Postman, Firebase, Render, Vercel |
 | **Concepts** | Data Structures & Algorithms, OOP, MVC Architecture, Authentication, API Design |
 
 ---
