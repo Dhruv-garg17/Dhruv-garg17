@@ -12,14 +12,6 @@ I specialize in **full-stack web development**, backend engineering, and buildin
 - [Masai School Full Stack Development](https://www.masaischool.com/certification) – Completed rigorous full-stack software development training.
 ---
 
-## 🎓 Education
-
-**Bachelor of Engineering – Computer Science and Engineering**  
-📍 *Chitkara University, Punjab*  
-📅 *Graduated: 2025*  
-📌 CGPA: 9.22 / 10
----
-
 ## 💻 Technical Expertise
 
 | Domain | Tools & Technologies |
