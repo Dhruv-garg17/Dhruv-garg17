@@ -102,7 +102,7 @@ A personal productivity app with drag-and-drop UI, deadline tracking, and user-f
 I’m always excited to collaborate on impactful projects or join dynamic teams.  
 Feel free to reach out or just say hi!
 
-📫 [dhruv110624@gmail.com](mailto:dhruv110624@gmail.com) | 🌐 [your-portfolio-link.com](https://your-portfolio-link.com)
+📫 [dhruv110624@gmail.com](mailto:dhruv110624@gmail.com) 
 
 ---
 
