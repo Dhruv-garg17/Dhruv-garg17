@@ -23,72 +23,98 @@ I specialize in **full-stack web development**, backend engineering, and buildin
 | **Concepts** | Data Structures & Algorithms, OOP, Authentication, API Design |
 
 ---
-## 🛠️ Notable Projects
-
+🛠️ Notable Projects
 💼 Skill Mate AI – AI-Powered Interview Preparation Platform
-An AI-driven platform built to simulate personalized mock interviews and offer feedback-driven skill assessments.
-Tech Stack: MERN, Google Gemini AI, JWT Auth
-Features:
+An intelligent platform that simulates mock interviews and provides personalized, feedback-driven skill assessments.
 
-Secure login/logout with protected routes
+🚀 Tech Stack:
+React | Node.js | Express | MongoDB | Google Gemini AI | JWT Auth
 
-Real-time AI-driven mock interview sessions
+✨ Features:
 
-Personalized feedback to track and improve skills
+🔐 Secure authentication with login/logout and protected routes
 
-Interview history and dashboard analytics
+🤖 AI-powered mock interview sessions tailored to user skills
+
+📊 Personalized feedback to help improve over time
+
+🧾 User dashboard to track interview history and insights
+
+🔗 Demo Link | Source Code
 
 🍎 Fruit.ai – Smart Fruit Information Platform
-An educational platform for learning about fruits with multilingual support and chatbot assistance.
-Tech Stack: React, MongoDB, OpenAI, RapidAPI (Google Translate API)
-Features:
+An educational website offering detailed insights on various fruits with real-time multilingual support and chatbot interaction.
 
-Detailed fruit info including nutrition, health benefits, and usage tips
+🚀 Tech Stack:
+React | MongoDB | OpenAI | RapidAPI (Google Translate API)
 
-Google Translate API for multilingual content rendering
+✨ Features:
 
-AI-powered chatbot for instant Q&A
+🍉 Explore nutrition facts, health benefits, and usage tips of fruits
 
-Interactive FAQ page for common user queries
+🌍 Multilingual support via Google Translate API
+
+🤖 Chatbot integration for instant fruit-related queries
+
+❓ Dynamic FAQ page to resolve common questions
+
+🔗 Demo Link | Source Code
 
 📝 Story Stream – Dynamic Blog Platform
-A modern blog platform with rich animations and full-stack CRUD functionality.
-Tech Stack: MERN (MongoDB, Express, React, Node.js)
-Features:
+A sleek blogging platform with admin capabilities and an interactive user experience.
 
-User authentication and interactive blog post management
+🚀 Tech Stack:
+MongoDB | Express | React | Node.js
 
-Admin panel to add/edit/delete content
+✨ Features:
 
-Commenting and review system to boost community engagement
+🔐 User authentication and access control
 
-Real-time updates and sleek UI transitions
+🛠️ Admin panel to manage blog content (add/edit/delete)
+
+💬 Commenting and review system for engagement
+
+⚡ Real-time updates and animations for a smooth experience
+
+🔗 Demo Link | Source Code
 
 🗺️ Adhyatri – Destination Recommendation System
-A travel guide web app designed to help users discover destinations and plan trips effortlessly.
-Tech Stack: JavaScript, HTML, CSS, Firebase
-Features:
+A smart travel companion that helps users explore and plan trips with cultural insights and personalized itineraries.
 
-Firebase authentication and real-time database
+🚀 Tech Stack:
+JavaScript | HTML | CSS | Firebase
 
-Search destinations with cultural and travel insights
+✨ Features:
 
-Itinerary planner for trip scheduling
+🔐 Firebase Authentication and real-time database support
 
-Fully responsive and mobile-friendly UI
+🔍 Destination search with rich cultural insights
+
+📅 Travel itinerary planning feature
+
+📱 Fully responsive and optimized for all devices
+
+🔗 Demo Link | Source Code
 
 📚 BookHut – Online Bookstore
-A full-featured e-commerce clone built for book shopping with cart and filter functionality.
-Tech Stack: MERN (MongoDB, Express, React, Node.js)
-Features:
+An e-commerce web application offering seamless shopping experiences with dynamic filtering and cart features.
 
-Dynamic category filters and price sorting
+🚀 Tech Stack:
+React | Node.js | Express | MongoDB
 
-Cart and checkout simulation
+✨ Features:
 
-Responsive layout with user-friendly navigation
+🧠 Smart filtering by category, price, and sort options
 
-Context API for state management
+🛒 Cart functionality with quantity and total calculation
+
+📱 Fully responsive design with intuitive UI
+
+🌐 Context API for global state management
+
+🔗 Demo Link | Source Code
+
+
 
 > 🔗 Explore more in my [GitHub Repositories](https://github.com/Dhruv-garg17?tab=repositories)
 
