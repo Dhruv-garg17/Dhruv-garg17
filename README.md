@@ -38,7 +38,7 @@ An intelligent platform that simulates mock interviews and provides personalized
 - 📊 Personalized feedback to help improve over time  
 - 🧾 User dashboard to track interview history and insights  
 
-🔗 [Demo Link](#) | [Source Code](#)
+🔗 [Demo Link](https://mock-ai-interview-1.onrender.com/) | [Source Code](https://github.com/Dhruv-garg17/Mock_AI_Interview)
 
 ---
 
@@ -53,7 +53,7 @@ An educational website offering detailed insights on various fruits with real-ti
 - 🤖 Chatbot integration for instant fruit-related queries  
 - ❓ Dynamic FAQ page to resolve common questions  
 
-🔗 [Demo Link](#) | [Source Code](#)
+🔗 [Demo Link](#) | [Source Code](https://github.com/Dhruv-garg17/FruitAI)
 
 ---
 
@@ -68,7 +68,7 @@ A sleek blogging platform with admin capabilities and an interactive user experi
 - 💬 Commenting and review system for engagement  
 - ⚡ Real-time updates and animations for a smooth experience  
 
-🔗 [Demo Link](#) | [Source Code](#)
+🔗 [Demo Link](https://blog-website-jet-psi.vercel.app/) | [Source Code](https://github.com/Dhruv-garg17/BlogWebsite)
 
 ---
 
@@ -83,7 +83,7 @@ A smart travel companion that helps users explore and plan trips with cultural i
 - 📅 Travel itinerary planning feature  
 - 📱 Fully responsive and optimized for all devices  
 
-🔗 [Demo Link](#) | [Source Code](#)
+🔗 [Demo Link](https://adhyatri.vercel.app/) | [Source Code](https://github.com/Dhruv-garg17/Adhyatri)
 
 ---
 
@@ -98,7 +98,7 @@ An e-commerce web application offering seamless shopping experiences with dynami
 - 📱 Fully responsive design with intuitive UI  
 - 🌐 Context API for global state management  
 
-🔗 [Demo Link](#) | [Source Code](#)
+🔗 [Demo Link](#) | [Source Code](https://github.com/Dhruv-garg17/BookHut)
 
 
 > 🔗 Explore more in my [GitHub Repositories](https://github.com/Dhruv-garg17?tab=repositories)
