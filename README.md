@@ -106,9 +106,9 @@ An e-commerce web application offering seamless shopping experiences with dynami
 ---
 ## 🎓 Certifications
 
-- [Cisco Cybersecurity Essentials](https://www.cisco.com/c/en_in/training-events/training-certifications/certifications/cybersecurity-essentials.html) – Completed foundational cybersecurity training by Cisco.
-- [IBM Cloud Foundations Badge](https://www.your-ibm-cert-link.com) – Demonstrated understanding of core cloud concepts and services.
-- [Java Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/) – Comprehensive Java programming course.
+- [Data Structures and Algorithms](https://www.coursera.org/account/accomplishments/specialization/RKH4QDS9C42M) – INFOSIS
+- [Software Engineering](https://www.coursera.org/account/accomplishments/specialization/N77W4ZX3TS3V) – COURSERA
+- [GRAPHIC DESIGN](https://www.coursera.org/account/accomplishments/specialization/E7SXRSVVPY6P) – COURSERA
 
 ---
 ## 🏆 Achievements
