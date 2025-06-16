@@ -43,10 +43,10 @@ customize and view modifications in real-time.
 ● Built using JavaScript, HTML, and CSS with a responsive, user-friendly interface.Integrated Firebase for user authentication
 and data storage, ensuring secure and seamless access.
 ● Implemented features like location search, cultural insights, and itinerary planning for a personalized travel experience.
-### 📚 BookHut  
+### BookHut  
 An online bookstore with dynamic filtering, cart functionality, and seamless user experience using the MERN stack.  
 **Stack**: React, Node.js, Express, MongoDB
-### 🍓 Fruit.ai  
+### Fruit.ai  
 A smart fruit information platform featuring Google Translate, integrated chatbot, and multilingual support.  
 **Stack**: React, RapidAPI, OpenAI, MongoDB
 
