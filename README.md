@@ -8,7 +8,7 @@ I'm a **software developer** with a strong foundation in computer science, a pas
 
 I specialize in **full-stack web development**, backend engineering, and building robust, scalable systems. I’ve contributed to several end-to-end applications, with a focus on performance, usability, and maintainability.
 
-- [Masai School Full Stack Development](https://www.masaischool.com/certification) – Completed rigorous full-stack software development training.
+- [Masai School Full Stack Development]  – Completed rigorous full-stack software development training.
 ---
 
 ## 💻 Technical Expertise
@@ -20,26 +20,35 @@ I specialize in **full-stack web development**, backend engineering, and buildin
 | **Backend** | Node.js, Express.js, REST APIs |
 | **Databases** | MongoDB, MySQL |
 | **Dev Tools** | Git, GitHub, VS Code, Postman, Firebase, Render, Vercel |
-| **Concepts** | Data Structures & Algorithms, OOP, MVC Architecture, Authentication, API Design |
+| **Concepts** | Data Structures & Algorithms, OOP, Authentication, API Design |
 
 ---
 ## 🛠️ Notable Projects
 
+### Skill Mate AI – Interview Preparation Platform 
+● Technologies used: React, Google Translate API.
+● Designed and developed a Fruit information website, allowing users to explore detailed nutritional facts, health benefits, and
+usage tips for various fruits.
+● Integrated advanced features including a Google Translate API for multilingual support and an AI-powered chatbot to assist
+users with fruit-related queries in real time.
+● Enhanced user experience with a dynamic FAQ page based on common inquiries, helping users get quick answers and
+navigate the website more efficiently.
+### Story Stream - BlogWebsite
+● Created a dynamic blog platform using MERN stack, featuring interactive animations and comprehensive content.
+● Established a user review and commenting system to foster community interaction.
+● Created an admin panel for easy content management, including adding, editing, and deleting blog posts. Enabled users to
+customize and view modifications in real-time.
+### Adhyatri – Destination Recommendation System
+● Developed Adhyatri, a travel guide web application to help users explore destinations and plan trips efficiently.
+● Built using JavaScript, HTML, and CSS with a responsive, user-friendly interface.Integrated Firebase for user authentication
+and data storage, ensuring secure and seamless access.
+● Implemented features like location search, cultural insights, and itinerary planning for a personalized travel experience.
 ### 📚 BookHut  
 An online bookstore with dynamic filtering, cart functionality, and seamless user experience using the MERN stack.  
 **Stack**: React, Node.js, Express, MongoDB
-
 ### 🍓 Fruit.ai  
 A smart fruit information platform featuring Google Translate, integrated chatbot, and multilingual support.  
-**Stack**: React, RapidAPI, OpenAI, Firebase
-
-### ✍️ Blog Application  
-A full-stack blog app with user authentication, markdown support, and role-based access.  
-**Stack**: MERN, JWT, React Quill
-
-### ✅ Task Manager  
-A personal productivity app with drag-and-drop UI, deadline tracking, and user-friendly design.  
-**Stack**: React, Node.js, Express
+**Stack**: React, RapidAPI, OpenAI, MongoDB
 
 > 🔗 Explore more in my [GitHub Repositories](https://github.com/Dhruv-garg17?tab=repositories)
 
@@ -61,24 +70,13 @@ A personal productivity app with drag-and-drop UI, deadline tracking, and user-f
 
 - 👥 **Active Contributor @Masai-course**  
   Contributed to team projects and collaborative codebases with version control best practices.
-
-- 🛡️ **Completed Cybersecurity Essentials**  
-  Certified by Cisco for completing foundational cybersecurity training.
-
-- ☁️ **Cloud Foundations Badge**  
-  Earned from IBM Cloud, demonstrating understanding of core cloud concepts.
-
+  
 - 🧰 **Git & GitHub Power User**  
   Experienced in pull requests, branching, code reviews, merge conflict resolution, and Git workflows.
-
-- 🧑‍🏫 **Peer Mentor Role at Masai**  
-  Guided fellow learners in projects, debugging, and collaborative problem-solving.
 
 [![MERN Stack](https://img.shields.io/badge/MERN%20Stack-Expert-brightgreen)](#)
 [![DSA 400+ Problems](https://img.shields.io/badge/DSA-400%2B%20Problems-orange)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-Contributor-blue)](#)
-[![Cisco Certified](https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-blue)](#)
-[![IBM Cloud](https://img.shields.io/badge/IBM-Cloud%20Foundations-lightblue)](#)
 [![Masai Course](https://img.shields.io/badge/Masai-Organization-red)](https://github.com/masai-course)
 
 ---
@@ -90,14 +88,6 @@ A personal productivity app with drag-and-drop UI, deadline tracking, and user-f
 
 
 ---
-
-## 📌 Currently Exploring
-- Advanced Backend Patterns (Queueing, Rate Limiting, Caching)
-- Cloud-native Development & DevOps
-- System Design & Scalable Architectures
-
----
-
 ## 🤝 Let's Connect
 I’m always excited to collaborate on impactful projects or join dynamic teams.  
 Feel free to reach out or just say hi!
