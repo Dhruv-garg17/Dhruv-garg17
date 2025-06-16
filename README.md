@@ -23,97 +23,82 @@ I specialize in **full-stack web development**, backend engineering, and buildin
 | **Concepts** | Data Structures & Algorithms, OOP, Authentication, API Design |
 
 ---
-🛠️ Notable Projects
-💼 Skill Mate AI – AI-Powered Interview Preparation Platform
+## 🛠️ Notable Projects
+
+---
+
+### 💼 Skill Mate AI – AI-Powered Interview Preparation Platform  
 An intelligent platform that simulates mock interviews and provides personalized, feedback-driven skill assessments.
 
-🚀 Tech Stack:
-React | Node.js | Express | MongoDB | Google Gemini AI | JWT Auth
+**🚀 Tech Stack:** React | Node.js | Express | MongoDB | Google Gemini AI | JWT Auth
 
-✨ Features:
+**✨ Features:**
+- 🔐 Secure authentication with login/logout and protected routes  
+- 🤖 AI-powered mock interview sessions tailored to user skills  
+- 📊 Personalized feedback to help improve over time  
+- 🧾 User dashboard to track interview history and insights  
 
-🔐 Secure authentication with login/logout and protected routes
+🔗 [Demo Link](#) | [Source Code](#)
 
-🤖 AI-powered mock interview sessions tailored to user skills
+---
 
-📊 Personalized feedback to help improve over time
-
-🧾 User dashboard to track interview history and insights
-
-🔗 Demo Link | Source Code
-
-🍎 Fruit.ai – Smart Fruit Information Platform
+### 🍎 Fruit.ai – Smart Fruit Information Platform  
 An educational website offering detailed insights on various fruits with real-time multilingual support and chatbot interaction.
 
-🚀 Tech Stack:
-React | MongoDB | OpenAI | RapidAPI (Google Translate API)
+**🚀 Tech Stack:** React | MongoDB | OpenAI | RapidAPI (Google Translate API)
 
-✨ Features:
+**✨ Features:**
+- 🍉 Explore nutrition facts, health benefits, and usage tips of fruits  
+- 🌍 Multilingual support via Google Translate API  
+- 🤖 Chatbot integration for instant fruit-related queries  
+- ❓ Dynamic FAQ page to resolve common questions  
 
-🍉 Explore nutrition facts, health benefits, and usage tips of fruits
+🔗 [Demo Link](#) | [Source Code](#)
 
-🌍 Multilingual support via Google Translate API
+---
 
-🤖 Chatbot integration for instant fruit-related queries
-
-❓ Dynamic FAQ page to resolve common questions
-
-🔗 Demo Link | Source Code
-
-📝 Story Stream – Dynamic Blog Platform
+### 📝 Story Stream – Dynamic Blog Platform  
 A sleek blogging platform with admin capabilities and an interactive user experience.
 
-🚀 Tech Stack:
-MongoDB | Express | React | Node.js
+**🚀 Tech Stack:** MongoDB | Express | React | Node.js
 
-✨ Features:
+**✨ Features:**
+- 🔐 User authentication and access control  
+- 🛠️ Admin panel to manage blog content (add/edit/delete)  
+- 💬 Commenting and review system for engagement  
+- ⚡ Real-time updates and animations for a smooth experience  
 
-🔐 User authentication and access control
+🔗 [Demo Link](#) | [Source Code](#)
 
-🛠️ Admin panel to manage blog content (add/edit/delete)
+---
 
-💬 Commenting and review system for engagement
-
-⚡ Real-time updates and animations for a smooth experience
-
-🔗 Demo Link | Source Code
-
-🗺️ Adhyatri – Destination Recommendation System
+### 🗺️ Adhyatri – Destination Recommendation System  
 A smart travel companion that helps users explore and plan trips with cultural insights and personalized itineraries.
 
-🚀 Tech Stack:
-JavaScript | HTML | CSS | Firebase
+**🚀 Tech Stack:** JavaScript | HTML | CSS | Firebase
 
-✨ Features:
+**✨ Features:**
+- 🔐 Firebase Authentication and real-time database support  
+- 🔍 Destination search with rich cultural insights  
+- 📅 Travel itinerary planning feature  
+- 📱 Fully responsive and optimized for all devices  
 
-🔐 Firebase Authentication and real-time database support
+🔗 [Demo Link](#) | [Source Code](#)
 
-🔍 Destination search with rich cultural insights
+---
 
-📅 Travel itinerary planning feature
-
-📱 Fully responsive and optimized for all devices
-
-🔗 Demo Link | Source Code
-
-📚 BookHut – Online Bookstore
+### 📚 BookHut – Online Bookstore  
 An e-commerce web application offering seamless shopping experiences with dynamic filtering and cart features.
 
-🚀 Tech Stack:
-React | Node.js | Express | MongoDB
+**🚀 Tech Stack:** React | Node.js | Express | MongoDB
 
-✨ Features:
+**✨ Features:**
+- 🧠 Smart filtering by category, price, and sort options  
+- 🛒 Cart functionality with quantity and total calculation  
+- 📱 Fully responsive design with intuitive UI  
+- 🌐 Context API for global state management  
 
-🧠 Smart filtering by category, price, and sort options
-
-🛒 Cart functionality with quantity and total calculation
-
-📱 Fully responsive design with intuitive UI
-
-🌐 Context API for global state management
-
-🔗 Demo Link | Source Code
-
+🔗 [Demo Link](#) | [Source Code](#)
 
 
 > 🔗 Explore more in my [GitHub Repositories](https://github.com/Dhruv-garg17?tab=repositories)
