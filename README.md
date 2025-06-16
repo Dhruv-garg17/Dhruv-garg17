@@ -25,30 +25,70 @@ I specialize in **full-stack web development**, backend engineering, and buildin
 ---
 ## 🛠️ Notable Projects
 
-### Skill Mate AI – Interview Preparation Platform 
-**●** Technologies used: React, Google Translate API.
-**●** Designed and developed a Fruit information website, allowing users to explore detailed nutritional facts, health benefits, and
-usage tips for various fruits.
-**●** Integrated advanced features including a Google Translate API for multilingual support and an AI-powered chatbot to assist
-users with fruit-related queries in real time.
-**●** Enhanced user experience with a dynamic FAQ page based on common inquiries, helping users get quick answers and
-navigate the website more efficiently.
-### Story Stream - BlogWebsite
-**●** Created a dynamic blog platform using MERN stack, featuring interactive animations and comprehensive content.
-**●** Established a user review and commenting system to foster community interaction.
-**●** Created an admin panel for easy content management, including adding, editing, and deleting blog posts. Enabled users to
-customize and view modifications in real-time.
-### Adhyatri – Destination Recommendation System
-**●** Developed Adhyatri, a travel guide web application to help users explore destinations and plan trips efficiently.
-**●** Built using JavaScript, HTML, and CSS with a responsive, user-friendly interface.Integrated Firebase for user authentication
-and data storage, ensuring secure and seamless access.
-**●** Implemented features like location search, cultural insights, and itinerary planning for a personalized travel experience.
-### BookHut  
-An online bookstore with dynamic filtering, cart functionality, and seamless user experience using the MERN stack.  
-**Stack**: React, Node.js, Express, MongoDB
-### Fruit.ai  
-A smart fruit information platform featuring Google Translate, integrated chatbot, and multilingual support.  
-**Stack**: React, RapidAPI, OpenAI, MongoDB
+💼 Skill Mate AI – AI-Powered Interview Preparation Platform
+An AI-driven platform built to simulate personalized mock interviews and offer feedback-driven skill assessments.
+Tech Stack: MERN, Google Gemini AI, JWT Auth
+Features:
+
+Secure login/logout with protected routes
+
+Real-time AI-driven mock interview sessions
+
+Personalized feedback to track and improve skills
+
+Interview history and dashboard analytics
+
+🍎 Fruit.ai – Smart Fruit Information Platform
+An educational platform for learning about fruits with multilingual support and chatbot assistance.
+Tech Stack: React, MongoDB, OpenAI, RapidAPI (Google Translate API)
+Features:
+
+Detailed fruit info including nutrition, health benefits, and usage tips
+
+Google Translate API for multilingual content rendering
+
+AI-powered chatbot for instant Q&A
+
+Interactive FAQ page for common user queries
+
+📝 Story Stream – Dynamic Blog Platform
+A modern blog platform with rich animations and full-stack CRUD functionality.
+Tech Stack: MERN (MongoDB, Express, React, Node.js)
+Features:
+
+User authentication and interactive blog post management
+
+Admin panel to add/edit/delete content
+
+Commenting and review system to boost community engagement
+
+Real-time updates and sleek UI transitions
+
+🗺️ Adhyatri – Destination Recommendation System
+A travel guide web app designed to help users discover destinations and plan trips effortlessly.
+Tech Stack: JavaScript, HTML, CSS, Firebase
+Features:
+
+Firebase authentication and real-time database
+
+Search destinations with cultural and travel insights
+
+Itinerary planner for trip scheduling
+
+Fully responsive and mobile-friendly UI
+
+📚 BookHut – Online Bookstore
+A full-featured e-commerce clone built for book shopping with cart and filter functionality.
+Tech Stack: MERN (MongoDB, Express, React, Node.js)
+Features:
+
+Dynamic category filters and price sorting
+
+Cart and checkout simulation
+
+Responsive layout with user-friendly navigation
+
+Context API for state management
 
 > 🔗 Explore more in my [GitHub Repositories](https://github.com/Dhruv-garg17?tab=repositories)
 
